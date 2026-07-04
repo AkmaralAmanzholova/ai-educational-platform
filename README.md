@@ -1,4 +1,9 @@
 # An education platform
+TODO: Add short description
+
+
+Demo link: https...
+
 
 ## Activation
 
