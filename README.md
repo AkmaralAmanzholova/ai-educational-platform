@@ -1,9 +1,9 @@
-# An education platform
-TODO: Add short description
+# Description
+Educational platform that personalizes learning materials and provides AI recommendations based on user activity.
+Features include study tools (assignments, quizzes, spaced repetition), gamification elements, and synchronization
+between web and mobile applications
 
-
-Demo link: https...
-
+Demo link: https://ai-educational-platform-frontend-95.vercel.app/ (only frontend is deployed, so no backend functionality is available)
 
 ## Activation
 
